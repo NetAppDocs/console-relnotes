@@ -1,0 +1,142 @@
+---
+sidebar: sidebar
+permalink: whats-new.html
+keywords: what's new, features, new, release notes, enhancements, fixes, new features, bluexp, cloud volumes ontap, licenses, digital wallet, subscriptions, cloud backup, cloud tiering, data sense, ransomware, connector, amazon fsx for ontap, azure netapp files, cloud sync, e-series, global file cache, google cloud, disaster recovery, backup and recovery, classification, copy and sync, edge cache, edge caching, volume caching, ontap clusters, alerts, identity and access management, iam, recovery, netapp console, console
+summary: Learn about the most recent changes to the features and data services that are part of the NetApp Console.
+---
+
+= Recent changes in NetApp Console
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Learn about the most recent changes to the features and data services that are part of the NetApp Console. For a complete release history, go to the link:release-notes-index.html[full set of release notes] for each individual service. 
+
+== Administrative features
+
+This section describes new features related to NetApp Console administration features: organizations, identify and access, Console agents, cloud provider credentials, and more.
+
+include::https://raw.githubusercontent.com/NetAppDocs/console-setup-admin/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Alerts
+
+include::https://raw.githubusercontent.com/NetAppDocs/console-alerts/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Amazon FSx for ONTAP
+
+include::https://raw.githubusercontent.com/NetAppDocs/console-fsx-ontap/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Amazon S3 storage
+
+include::https://raw.githubusercontent.com/NetAppDocs/storage-managment-s3-storage/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Azure Blob storage
+
+include::https://raw.githubusercontent.com/NetAppDocs/storage-management-blob-storage/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Azure NetApp Files
+
+include::https://raw.githubusercontent.com/NetAppDocs/storage-management-azure-netapp-files/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Backup and Recovery
+
+include::https://raw.githubusercontent.com/NetAppDocs/data-services-backup-recovery/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Data Classification
+
+include::https://raw.githubusercontent.com/NetAppDocs/data-services-data-classification/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Cloud Volumes ONTAP
+
+include::https://raw.githubusercontent.com/NetAppDocs/storage-management-cloud-volumes-ontap/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Copy and Sync
+
+include::https://raw.githubusercontent.com/NetAppDocs/data-services-copy-sync/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Digital advisor
+
+include::https://raw.githubusercontent.com/NetAppDocs/active-iq/main/reference_new_activeiq.adoc[tag=whats-new,leveloffset=+1]
+
+== Licenses and subscriptions
+
+include::https://raw.githubusercontent.com/NetAppDocs/console-licenses-subscriptions/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Disaster Recovery
+
+include::https://raw.githubusercontent.com/NetAppDocs/storage-management-disaster-recovery/main/release-notes/dr-whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== E-Series systems
+
+include::https://raw.githubusercontent.com/NetAppDocs/storage-management-e-series/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Lifecycle planning
+
+include::https://raw.githubusercontent.com/NetAppDocs/console-lifecycle-planning/main/release-notes/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Edge caching
+
+The edge caching service was removed on August 7, 2024.
+
+== Google Cloud NetApp Volumes
+
+include::https://raw.githubusercontent.com/NetAppDocs/storage-management-google-cloud-netapp-volumes/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Google Cloud Storage
+
+include::https://raw.githubusercontent.com/NetAppDocs/storage-management-google-cloud-storage/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Keystone
+
+include::https://raw.githubusercontent.com/NetAppDocs/keystone-staas/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Kubernetes
+
+Support for discovering and managing Kubernetes clusters was removed on August 7, 2024.
+
+== Migration reports
+
+Migration reports service was removed on August 7, 2024.
+
+== On-prem ONTAP clusters
+
+include::https://raw.githubusercontent.com/NetAppDocs/storage-management-ontap-onprem/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+ 
+== Operational resiliency
+
+Operational resiliency features were removed on August 22, 2025. 
+
+== Ransomware Resilience
+
+include::https://raw.githubusercontent.com/NetAppDocs/data-services-ransomware-resilience/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Remediation
+
+The Remediation service was removed on April 22, 2024.
+
+== Replication
+
+include::https://raw.githubusercontent.com/NetAppDocs/data-services-replication/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Software updates
+
+include::https://raw.githubusercontent.com/NetAppDocs/console-software-updates/main/release-notes/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== StorageGRID
+
+include::https://raw.githubusercontent.com/NetAppDocs/storage-managment-storagegrid/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Cloud Tiering
+
+include::https://raw.githubusercontent.com/NetAppDocs/data-service-cloud-tiering/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Volume caching
+
+include::https://raw.githubusercontent.com/NetAppDocs/console-volume-caching/main/release-notes/cache-whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Workload factory
+
+include::https://raw.githubusercontent.com/NetAppDocs/workload-setup-admin/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
