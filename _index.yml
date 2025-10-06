@@ -1,14 +1,22 @@
 indexpage:
-  title: # Unquoted string 
-  lead: # Quoted string
-  summary: # Quoted string 
-  keywords: # Unquoted comma-delimited list of keywords 
-  tiles: 
-    # Tile definition 
-    - title: # Quoted or unquoted string
-      links: 
-        # Link definition
-        - title: # Quoted or unquoted string
-          url: # Path to target
-        # Next link on this tile (title/url pair)
-    # Next tile on this page (title/links)
+  title: NetApp Console release notes
+  lead: These release notes describe recent enhancements to NetApp Console and the data services it supports. Links are available to the full set of release notes for each individual service.
+  summary: These release notes describe recent enhancements to NetApp Console and the data services it supports. Links are available to the full set of release notes for each individual service.
+  keywords: release notes, enhancements, bluexp, what's new
+  tiles:
+    - title: What's new
+      links:
+        - title: Recent changes in NetApp Console
+          url: whats-new.html
+    - title: Release notes by service
+      links:
+        - title: Release notes index
+          url: release-notes-index.html
+    - title: Blogs & community
+      links:
+        - title: NetApp Console
+          url: https://www.netapp.com/console
+        - title: NetApp Data Services
+          url: https://www.netapp.com/data-services/
+        - title: NetApp Community
+          url: https://community.netapp.com/
