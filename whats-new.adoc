@@ -27,7 +27,7 @@ include::https://raw.githubusercontent.com/NetAppDocs/console-alerts/main/whats-
 
 == Amazon FSx for ONTAP
 
-include::https://raw.githubusercontent.com/NetAppDocs/console-fsx-ontap/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+include::https://raw.githubusercontent.com/NetAppDocs/storage-management-fsx-ontap/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == Amazon S3 storage
 
