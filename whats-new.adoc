@@ -131,7 +131,7 @@ include::https://raw.githubusercontent.com/NetAppDocs/storage-managment-storageg
 
 == Cloud Tiering
 
-include::https://raw.githubusercontent.com/NetAppDocs/data-service-cloud-tiering/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+include::https://raw.githubusercontent.com/NetAppDocs/data-services-cloud-tiering/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == Volume caching
 
