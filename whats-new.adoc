@@ -27,11 +27,11 @@ include::https://raw.githubusercontent.com/NetAppDocs/console-alerts/main/whats-
 
 == Amazon FSx for ONTAP
 
-include::https://raw.githubusercontent.com/NetAppDocs/console-fsx-ontap/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+include::https://raw.githubusercontent.com/NetAppDocs/storage-management-fsx-ontap/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == Amazon S3 storage
 
-include::https://raw.githubusercontent.com/NetAppDocs/storage-managment-s3-storage/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+include::https://raw.githubusercontent.com/NetAppDocs/storage-management-s3-storage/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == Azure Blob storage
 
@@ -127,11 +127,11 @@ include::https://raw.githubusercontent.com/NetAppDocs/console-software-updates/m
 
 == StorageGRID
 
-include::https://raw.githubusercontent.com/NetAppDocs/storage-managment-storagegrid/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+include::https://raw.githubusercontent.com/NetAppDocs/storage-management-storagegrid/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == Cloud Tiering
 
-include::https://raw.githubusercontent.com/NetAppDocs/data-service-cloud-tiering/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+include::https://raw.githubusercontent.com/NetAppDocs/data-services-cloud-tiering/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == Volume caching
 

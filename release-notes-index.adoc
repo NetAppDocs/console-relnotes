@@ -22,7 +22,7 @@ View the full set of release notes for NetApp Console features and NetApp data s
 * https://docs.netapp.com/us-en/netapp-automation/about/whats-new.html[Automation Hub^]
 * https://docs.netapp.com/us-en/active-iq/reference_new_activeiq.html[Digital advisor^]
 * https://docs.netapp.com/us-en/console-lifecycle-planning/release-notes/whats-new.html[Economic efficiency^]
-* https://docs.netapp.com/us-en/console-license-subscriptions/index.html[Licenses and subscriptions^]
+* https://docs.netapp.com/us-en/console-licenses-subscriptions/index.html[Licenses and subscriptions^]
 * https://docs.netapp.com/us-en/console-software-updates/release-notes/whats-new.html[Software updates^]
 
 == Storage
@@ -48,7 +48,7 @@ View the full set of release notes for NetApp Console features and NetApp data s
 
 
 * https://docs.netapp.com/us-en/data-services-backup-recovery/whats-new.html[Backup and Recovery^]
-* https://docs.netapp.com/us-en/data-services-classification/whats-new.html[Data Classification^]
+* https://docs.netapp.com/us-en/data-services-data-classification/whats-new.html[Data Classification^]
 * https://docs.netapp.com/us-en/data-services-copy-sync/whats-new.html[Copy and sync^]
 * https://docs.netapp.com/us-en/data-services-disaster-recovery/release-notes/dr-whats-new.html[Disaster Recovery^]
 * https://docs.netapp.com/us-en/data-services-ransomware-resilience/whats-new.html[Ransomware Resilience^]
