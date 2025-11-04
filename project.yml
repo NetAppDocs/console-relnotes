@@ -28,6 +28,7 @@ settings:
       - storage-management-fsx-ontap
       - storage-management-google-cloud-netapp-volumes
       - storage-management-google-cloud-storage
+      - storage-management-ontap-onprem
       - storage-management-storagegrid
       - active-iq
       - keystone-staas
