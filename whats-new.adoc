@@ -141,7 +141,7 @@ include::https://raw.githubusercontent.com/NetAppDocs/console-volume-caching/mai
 
 include::https://raw.githubusercontent.com/NetAppDocs/workload-setup-admin/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
-// end local content
+
 ## 11 November 2025 
 
 include::_include/storage-management-fsx-ontap.adoc[]
@@ -231,3 +231,4 @@ include::_whatsnew/2025-08-25_data-services-backup-recovery.adoc[leveloffset=+1]
 include::_include/keystone-staas.adoc[]
 include::_whatsnew/2025-08-25_keystone-staas.adoc[leveloffset=+1]
 
+// end local content
