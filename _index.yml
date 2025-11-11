@@ -2,7 +2,7 @@ indexpage:
   title: NetApp Console release notes
   lead: These release notes describe recent enhancements to NetApp Console and the data services it supports. Links are available to the full set of release notes for each individual service.
   summary: These release notes describe recent enhancements to NetApp Console and the data services it supports. Links are available to the full set of release notes for each individual service.
-  keywords: release notes, enhancements, bluexp, what's new
+  keywords: release notes, enhancements, bluexp, what's new, netapp console, console
   tiles:
     - title: What's new
       links:
