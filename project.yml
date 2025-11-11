@@ -6,7 +6,7 @@ settings:
     pdf_enabled: true
     harmony_enabled: true
   release_notes_autogen:
-    auto_release_notes_enabled: true
+    auto_release_notes_enabled: false
     repositories_features:
       - console-alerts
       - console-automation
@@ -46,3 +46,4 @@ sidebar:
 product-family:
   name: NetApp Console
   repo: console-family
+
