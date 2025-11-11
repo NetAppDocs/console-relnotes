@@ -15,83 +15,13 @@ summary: Learn about the most recent changes to the features and data services t
 [.lead]
 Learn about the most recent changes to the features and data services that are part of the NetApp Console. For a complete release history, go to the link:release-notes-index.html[full set of release notes] for each individual service. 
 
-== Administrative features
+== Deprecated services
 
-This section describes new features related to NetApp Console administration features: organizations, identify and access, Console agents, cloud provider credentials, and more.
 
-include::https://raw.githubusercontent.com/NetAppDocs/console-setup-admin/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
-
-== Alerts
-
-include::https://raw.githubusercontent.com/NetAppDocs/console-alerts/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
-
-== Amazon FSx for ONTAP
-
-include::https://raw.githubusercontent.com/NetAppDocs/storage-management-fsx-ontap/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
-
-== Amazon S3 storage
-
-include::https://raw.githubusercontent.com/NetAppDocs/storage-management-s3-storage/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
-
-== Azure Blob storage
-
-include::https://raw.githubusercontent.com/NetAppDocs/storage-management-blob-storage/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
-
-== Azure NetApp Files
-
-include::https://raw.githubusercontent.com/NetAppDocs/storage-management-azure-netapp-files/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
-
-== Backup and Recovery
-
-include::https://raw.githubusercontent.com/NetAppDocs/data-services-backup-recovery/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
-
-== Data Classification
-
-include::https://raw.githubusercontent.com/NetAppDocs/data-services-data-classification/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
-
-== Cloud Volumes ONTAP
-
-include::https://raw.githubusercontent.com/NetAppDocs/storage-management-cloud-volumes-ontap/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
-
-== Copy and Sync
-
-include::https://raw.githubusercontent.com/NetAppDocs/data-services-copy-sync/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
-
-== Digital advisor
-
-include::https://raw.githubusercontent.com/NetAppDocs/active-iq/main/reference_new_activeiq.adoc[tag=whats-new,leveloffset=+1]
-
-== Licenses and subscriptions
-
-include::https://raw.githubusercontent.com/NetAppDocs/console-licenses-subscriptions/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
-
-== Disaster Recovery
-
-include::https://raw.githubusercontent.com/NetAppDocs/data-services-disaster-recovery/main/release-notes/dr-whats-new.adoc[tag=whats-new,leveloffset=+1]
-
-== E-Series systems
-
-include::https://raw.githubusercontent.com/NetAppDocs/storage-management-e-series/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
-
-== Lifecycle planning
-
-include::https://raw.githubusercontent.com/NetAppDocs/console-lifecycle-planning/main/release-notes/whats-new.adoc[tag=whats-new,leveloffset=+1]
-
-== Edge caching
+=== Edge caching
 
 The edge caching service was removed on August 7, 2024.
 
-== Google Cloud NetApp Volumes
-
-include::https://raw.githubusercontent.com/NetAppDocs/storage-management-google-cloud-netapp-volumes/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
-
-== Google Cloud Storage
-
-include::https://raw.githubusercontent.com/NetAppDocs/storage-management-google-cloud-storage/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
-
-== Keystone
-
-include::https://raw.githubusercontent.com/NetAppDocs/keystone-staas/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == Kubernetes
 
@@ -101,134 +31,15 @@ Support for discovering and managing Kubernetes clusters was removed on August 7
 
 Migration reports service was removed on August 7, 2024.
 
-== On-prem ONTAP clusters
-
-include::https://raw.githubusercontent.com/NetAppDocs/storage-management-ontap-onprem/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
  
 == Operational resiliency
 
 Operational resiliency features were removed on August 22, 2025. 
 
-== Ransomware Resilience
-
-include::https://raw.githubusercontent.com/NetAppDocs/data-services-ransomware-resilience/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
-
 == Remediation
 
 The Remediation service was removed on April 22, 2024.
 
-== Replication
-
-include::https://raw.githubusercontent.com/NetAppDocs/data-services-replication/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
-
-== Software updates
-
-include::https://raw.githubusercontent.com/NetAppDocs/console-software-updates/main/release-notes/whats-new.adoc[tag=whats-new,leveloffset=+1]
-
-== StorageGRID
-
-include::https://raw.githubusercontent.com/NetAppDocs/storage-management-storagegrid/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
-
-== Cloud Tiering
-
-include::https://raw.githubusercontent.com/NetAppDocs/data-services-cloud-tiering/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
-
-== Volume caching
-
-include::https://raw.githubusercontent.com/NetAppDocs/console-volume-caching/main/release-notes/cache-whats-new.adoc[tag=whats-new,leveloffset=+1]
-
-== Workload factory
-
-include::https://raw.githubusercontent.com/NetAppDocs/workload-setup-admin/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
-
-
-## 11 November 2025 
-
-include::_include/storage-management-fsx-ontap.adoc[]
-include::_whatsnew/2025-11-11_storage-management-fsx-ontap.adoc[leveloffset=+1]
-
-## 10 November 2025 
-
-include::_include/console-setup-admin.adoc[]
-include::_whatsnew/2025-11-10_console-setup-admin.adoc[leveloffset=+1]
-include::_include/data-services-data-classification.adoc[]
-include::_whatsnew/2025-11-10_data-services-data-classification.adoc[leveloffset=+1]
-include::_include/data-services-disaster-recovery.adoc[]
-include::_whatsnew/2025-11-10_data-services-disaster-recovery.adoc[leveloffset=+1]
-include::_include/storage-management-cloud-volumes-ontap.adoc[]
-include::_whatsnew/2025-11-10_storage-management-cloud-volumes-ontap.adoc[leveloffset=+1]
-include::_include/keystone-staas.adoc[]
-include::_whatsnew/2025-11-10_keystone-staas.adoc[leveloffset=+1]
-
-## 17 October 2025 
-
-include::_include/storage-management-cloud-volumes-ontap.adoc[]
-include::_whatsnew/2025-10-17_storage-management-cloud-volumes-ontap.adoc[leveloffset=+1]
-
-## 13 October 2025 
-
-include::_include/keystone-staas.adoc[]
-include::_whatsnew/2025-10-13_keystone-staas.adoc[leveloffset=+1]
-
-## 06 October 2025 
-
-include::_include/console-alerts.adoc[]
-include::_whatsnew/2025-10-06_console-alerts.adoc[leveloffset=+1]
-include::_include/console-licenses-subscriptions.adoc[]
-include::_whatsnew/2025-10-06_console-licenses-subscriptions.adoc[leveloffset=+1]
-include::_include/console-lifecycle-planning.adoc[]
-include::_whatsnew/2025-10-06_console-lifecycle-planning.adoc[leveloffset=+1]
-include::_include/console-setup-admin.adoc[]
-include::_whatsnew/2025-10-06_console-setup-admin.adoc[leveloffset=+1]
-include::_include/console-software-updates.adoc[]
-include::_whatsnew/2025-10-06_console-software-updates.adoc[leveloffset=+1]
-include::_include/console-volume-caching.adoc[]
-include::_whatsnew/2025-10-06_console-volume-caching.adoc[leveloffset=+1]
-include::_include/data-services-backup-recovery.adoc[]
-include::_whatsnew/2025-10-06_data-services-backup-recovery.adoc[leveloffset=+1]
-include::_include/data-services-data-classification.adoc[]
-include::_whatsnew/2025-10-06_data-services-data-classification.adoc[leveloffset=+1]
-include::_include/data-services-cloud-tiering.adoc[]
-include::_whatsnew/2025-10-06_data-services-cloud-tiering.adoc[leveloffset=+1]
-include::_include/data-services-copy-sync.adoc[]
-include::_whatsnew/2025-10-06_data-services-copy-sync.adoc[leveloffset=+1]
-include::_include/data-services-disaster-recovery.adoc[]
-include::_whatsnew/2025-10-06_data-services-disaster-recovery.adoc[leveloffset=+1]
-include::_include/data-services-ransomware-resilience.adoc[]
-include::_whatsnew/2025-10-06_data-services-ransomware-resilience.adoc[leveloffset=+1]
-include::_include/data-services-replication.adoc[]
-include::_whatsnew/2025-10-06_data-services-replication.adoc[leveloffset=+1]
-include::_include/storage-management-azure-netapp-files.adoc[]
-include::_whatsnew/2025-10-06_storage-management-azure-netapp-files.adoc[leveloffset=+1]
-include::_include/storage-management-cloud-volumes-ontap.adoc[]
-include::_whatsnew/2025-10-06_storage-management-cloud-volumes-ontap.adoc[leveloffset=+1]
-include::_include/storage-management-e-series.adoc[]
-include::_whatsnew/2025-10-06_storage-management-e-series.adoc[leveloffset=+1]
-include::_include/storage-management-fsx-ontap.adoc[]
-include::_whatsnew/2025-10-06_storage-management-fsx-ontap.adoc[leveloffset=+1]
-include::_include/storage-management-google-cloud-netapp-volumes.adoc[]
-include::_whatsnew/2025-10-06_storage-management-google-cloud-netapp-volumes.adoc[leveloffset=+1]
-include::_include/storage-management-google-cloud-storage.adoc[]
-include::_whatsnew/2025-10-06_storage-management-google-cloud-storage.adoc[leveloffset=+1]
-include::_include/storage-management-ontap-onprem.adoc[]
-include::_whatsnew/2025-10-06_storage-management-ontap-onprem.adoc[leveloffset=+1]
-include::_include/storage-management-storagegrid.adoc[]
-include::_whatsnew/2025-10-06_storage-management-storagegrid.adoc[leveloffset=+1]
-include::_include/active-iq.adoc[]
-include::_whatsnew/2025-10-06_active-iq.adoc[leveloffset=+1]
-include::_include/keystone-staas.adoc[]
-include::_whatsnew/2025-10-06_keystone-staas.adoc[leveloffset=+1]
-
-## 22 September 2025 
-
-include::_include/keystone-staas.adoc[]
-include::_whatsnew/2025-09-22_keystone-staas.adoc[leveloffset=+1]
-
-## 25 August 2025 
-
-include::_include/data-services-backup-recovery.adoc[]
-include::_whatsnew/2025-08-25_data-services-backup-recovery.adoc[leveloffset=+1]
-include::_include/keystone-staas.adoc[]
-include::_whatsnew/2025-08-25_keystone-staas.adoc[leveloffset=+1]
-
 // end local content
+
+
