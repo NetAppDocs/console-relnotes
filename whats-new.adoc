@@ -142,3 +142,92 @@ include::https://raw.githubusercontent.com/NetAppDocs/console-volume-caching/mai
 include::https://raw.githubusercontent.com/NetAppDocs/workload-setup-admin/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 // end local content
+## 11 November 2025 
+
+include::_include/storage-management-fsx-ontap.adoc[]
+include::_whatsnew/2025-11-11_storage-management-fsx-ontap.adoc[leveloffset=+1]
+
+## 10 November 2025 
+
+include::_include/console-setup-admin.adoc[]
+include::_whatsnew/2025-11-10_console-setup-admin.adoc[leveloffset=+1]
+include::_include/data-services-data-classification.adoc[]
+include::_whatsnew/2025-11-10_data-services-data-classification.adoc[leveloffset=+1]
+include::_include/data-services-disaster-recovery.adoc[]
+include::_whatsnew/2025-11-10_data-services-disaster-recovery.adoc[leveloffset=+1]
+include::_include/storage-management-cloud-volumes-ontap.adoc[]
+include::_whatsnew/2025-11-10_storage-management-cloud-volumes-ontap.adoc[leveloffset=+1]
+include::_include/keystone-staas.adoc[]
+include::_whatsnew/2025-11-10_keystone-staas.adoc[leveloffset=+1]
+
+## 17 October 2025 
+
+include::_include/storage-management-cloud-volumes-ontap.adoc[]
+include::_whatsnew/2025-10-17_storage-management-cloud-volumes-ontap.adoc[leveloffset=+1]
+
+## 13 October 2025 
+
+include::_include/keystone-staas.adoc[]
+include::_whatsnew/2025-10-13_keystone-staas.adoc[leveloffset=+1]
+
+## 06 October 2025 
+
+include::_include/console-alerts.adoc[]
+include::_whatsnew/2025-10-06_console-alerts.adoc[leveloffset=+1]
+include::_include/console-licenses-subscriptions.adoc[]
+include::_whatsnew/2025-10-06_console-licenses-subscriptions.adoc[leveloffset=+1]
+include::_include/console-lifecycle-planning.adoc[]
+include::_whatsnew/2025-10-06_console-lifecycle-planning.adoc[leveloffset=+1]
+include::_include/console-setup-admin.adoc[]
+include::_whatsnew/2025-10-06_console-setup-admin.adoc[leveloffset=+1]
+include::_include/console-software-updates.adoc[]
+include::_whatsnew/2025-10-06_console-software-updates.adoc[leveloffset=+1]
+include::_include/console-volume-caching.adoc[]
+include::_whatsnew/2025-10-06_console-volume-caching.adoc[leveloffset=+1]
+include::_include/data-services-backup-recovery.adoc[]
+include::_whatsnew/2025-10-06_data-services-backup-recovery.adoc[leveloffset=+1]
+include::_include/data-services-data-classification.adoc[]
+include::_whatsnew/2025-10-06_data-services-data-classification.adoc[leveloffset=+1]
+include::_include/data-services-cloud-tiering.adoc[]
+include::_whatsnew/2025-10-06_data-services-cloud-tiering.adoc[leveloffset=+1]
+include::_include/data-services-copy-sync.adoc[]
+include::_whatsnew/2025-10-06_data-services-copy-sync.adoc[leveloffset=+1]
+include::_include/data-services-disaster-recovery.adoc[]
+include::_whatsnew/2025-10-06_data-services-disaster-recovery.adoc[leveloffset=+1]
+include::_include/data-services-ransomware-resilience.adoc[]
+include::_whatsnew/2025-10-06_data-services-ransomware-resilience.adoc[leveloffset=+1]
+include::_include/data-services-replication.adoc[]
+include::_whatsnew/2025-10-06_data-services-replication.adoc[leveloffset=+1]
+include::_include/storage-management-azure-netapp-files.adoc[]
+include::_whatsnew/2025-10-06_storage-management-azure-netapp-files.adoc[leveloffset=+1]
+include::_include/storage-management-cloud-volumes-ontap.adoc[]
+include::_whatsnew/2025-10-06_storage-management-cloud-volumes-ontap.adoc[leveloffset=+1]
+include::_include/storage-management-e-series.adoc[]
+include::_whatsnew/2025-10-06_storage-management-e-series.adoc[leveloffset=+1]
+include::_include/storage-management-fsx-ontap.adoc[]
+include::_whatsnew/2025-10-06_storage-management-fsx-ontap.adoc[leveloffset=+1]
+include::_include/storage-management-google-cloud-netapp-volumes.adoc[]
+include::_whatsnew/2025-10-06_storage-management-google-cloud-netapp-volumes.adoc[leveloffset=+1]
+include::_include/storage-management-google-cloud-storage.adoc[]
+include::_whatsnew/2025-10-06_storage-management-google-cloud-storage.adoc[leveloffset=+1]
+include::_include/storage-management-ontap-onprem.adoc[]
+include::_whatsnew/2025-10-06_storage-management-ontap-onprem.adoc[leveloffset=+1]
+include::_include/storage-management-storagegrid.adoc[]
+include::_whatsnew/2025-10-06_storage-management-storagegrid.adoc[leveloffset=+1]
+include::_include/active-iq.adoc[]
+include::_whatsnew/2025-10-06_active-iq.adoc[leveloffset=+1]
+include::_include/keystone-staas.adoc[]
+include::_whatsnew/2025-10-06_keystone-staas.adoc[leveloffset=+1]
+
+## 22 September 2025 
+
+include::_include/keystone-staas.adoc[]
+include::_whatsnew/2025-09-22_keystone-staas.adoc[leveloffset=+1]
+
+## 25 August 2025 
+
+include::_include/data-services-backup-recovery.adoc[]
+include::_whatsnew/2025-08-25_data-services-backup-recovery.adoc[leveloffset=+1]
+include::_include/keystone-staas.adoc[]
+include::_whatsnew/2025-08-25_keystone-staas.adoc[leveloffset=+1]
+
