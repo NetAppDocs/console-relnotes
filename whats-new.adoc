@@ -23,20 +23,20 @@ Learn about the most recent changes to the features and data services that are p
 The edge caching service was removed on August 7, 2024.
 
 
-== Kubernetes
+=== Kubernetes
 
 Support for discovering and managing Kubernetes clusters was removed on August 7, 2024.
 
-== Migration reports
+=== Migration reports
 
 Migration reports service was removed on August 7, 2024.
 
  
-== Operational resiliency
+=== Operational resiliency
 
 Operational resiliency features were removed on August 22, 2025. 
 
-== Remediation
+=== Remediation
 
 The Remediation service was removed on April 22, 2024.
 
