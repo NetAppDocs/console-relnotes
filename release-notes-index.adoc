@@ -19,7 +19,7 @@ View the full set of release notes for NetApp Console features and NetApp data s
 
 * https://docs.netapp.com/us-en/console-setup-admin/whats-new.html[Setup and administration^]
 * https://docs.netapp.com/us-en/console-alerts/whats-new.html[Alerts^]
-* https://docs.netapp.com/us-en/netapp-automation/about/whats-new.html[Automation Hub^]
+* https://docs.netapp.com/us-en/netapp-automation/about/whats-new.html[Automation Catalog^]
 * https://docs.netapp.com/us-en/active-iq/reference_new_activeiq.html[Digital advisor^]
 * https://docs.netapp.com/us-en/console-lifecycle-planning/release-notes/whats-new.html[Economic efficiency^]
 * https://docs.netapp.com/us-en/console-licenses-subscriptions/index.html[Licenses and subscriptions^]

@@ -1,1 +1,0 @@
-The updated BlueXP migration reports service provides updates to the report data. Reports now include allocated capacity.
