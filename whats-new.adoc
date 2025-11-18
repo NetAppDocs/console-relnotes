@@ -41,6 +41,11 @@ Operational resiliency features were removed on August 22, 2025.
 The Remediation service was removed on April 22, 2024.
 
 // end local content
+## 17 November 2025 
+
+include::_include/storage-management-fsx-ontap.adoc[]
+include::_whatsnew/2025-11-17_storage-management-fsx-ontap.adoc[leveloffset=+1]
+
 ## 11 November 2025 
 
 include::_include/storage-management-fsx-ontap.adoc[]
