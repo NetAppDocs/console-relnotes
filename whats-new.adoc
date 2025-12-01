@@ -41,6 +41,11 @@ Operational resiliency features were removed on August 22, 2025.
 The Remediation service was removed on April 22, 2024.
 
 // end local content
+## 01 December 2025 
+
+include::_include/data-services-disaster-recovery.adoc[]
+include::_whatsnew/2025-12-01_data-services-disaster-recovery.adoc[leveloffset=+1]
+
 ## 27 November 2025 
 
 include::_include/storage-management-google-cloud-netapp-volumes.adoc[]
