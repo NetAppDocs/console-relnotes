@@ -47,6 +47,8 @@ include::_include/data-services-backup-recovery.adoc[]
 include::_whatsnew/2025-12-08_data-services-backup-recovery.adoc[leveloffset=+1]
 include::_include/data-services-data-classification.adoc[]
 include::_whatsnew/2025-12-08_data-services-data-classification.adoc[leveloffset=+1]
+include::_include/keystone-staas.adoc[]
+include::_whatsnew/2025-12-08_keystone-staas.adoc[leveloffset=+1]
 
 ## 01 December 2025 
 
