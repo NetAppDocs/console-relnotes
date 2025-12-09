@@ -41,12 +41,19 @@ Operational resiliency features were removed on August 22, 2025.
 The Remediation service was removed on April 22, 2024.
 
 // end local content
+## 09 December 2025 
+
+include::_include/data-services-disaster-recovery.adoc[]
+include::_whatsnew/2025-12-09_data-services-disaster-recovery.adoc[leveloffset=+1]
+
 ## 08 December 2025 
 
 include::_include/data-services-backup-recovery.adoc[]
 include::_whatsnew/2025-12-08_data-services-backup-recovery.adoc[leveloffset=+1]
 include::_include/data-services-data-classification.adoc[]
 include::_whatsnew/2025-12-08_data-services-data-classification.adoc[leveloffset=+1]
+include::_include/data-services-ransomware-resilience.adoc[]
+include::_whatsnew/2025-12-08_data-services-ransomware-resilience.adoc[leveloffset=+1]
 include::_include/keystone-staas.adoc[]
 include::_whatsnew/2025-12-08_keystone-staas.adoc[leveloffset=+1]
 
