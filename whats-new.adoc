@@ -54,6 +54,8 @@ include::_include/data-services-data-classification.adoc[]
 include::_whatsnew/2025-12-08_data-services-data-classification.adoc[leveloffset=+1]
 include::_include/data-services-ransomware-resilience.adoc[]
 include::_whatsnew/2025-12-08_data-services-ransomware-resilience.adoc[leveloffset=+1]
+include::_include/storage-management-cloud-volumes-ontap.adoc[]
+include::_whatsnew/2025-12-08_storage-management-cloud-volumes-ontap.adoc[leveloffset=+1]
 include::_include/keystone-staas.adoc[]
 include::_whatsnew/2025-12-08_keystone-staas.adoc[leveloffset=+1]
 
@@ -79,6 +81,8 @@ include::_whatsnew/2025-11-17_storage-management-fsx-ontap.adoc[leveloffset=+1]
 
 ## 11 November 2025 
 
+include::_include/storage-management-cloud-volumes-ontap.adoc[]
+include::_whatsnew/2025-11-11_storage-management-cloud-volumes-ontap.adoc[leveloffset=+1]
 include::_include/storage-management-fsx-ontap.adoc[]
 include::_whatsnew/2025-11-11_storage-management-fsx-ontap.adoc[leveloffset=+1]
 
