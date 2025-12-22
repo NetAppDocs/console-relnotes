@@ -169,8 +169,3 @@ include::_whatsnew/2025-10-06_active-iq.adoc[leveloffset=+1]
 include::_include/keystone-staas.adoc[]
 include::_whatsnew/2025-10-06_keystone-staas.adoc[leveloffset=+1]
 
-## 22 September 2025 
-
-include::_include/keystone-staas.adoc[]
-include::_whatsnew/2025-09-22_keystone-staas.adoc[leveloffset=+1]
-
