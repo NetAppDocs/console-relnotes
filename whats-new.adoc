@@ -41,6 +41,11 @@ Operational resiliency features were removed on August 22, 2025.
 The Remediation service was removed on April 22, 2024.
 
 // end local content
+## 12 January 2026 
+
+include::_include/data-services-disaster-recovery.adoc[]
+include::_whatsnew/2026-01-12_data-services-disaster-recovery.adoc[leveloffset=+1]
+
 ## 10 December 2025 
 
 include::_include/console-setup-admin.adoc[]
@@ -114,9 +119,4 @@ include::_whatsnew/2025-11-10_keystone-staas.adoc[leveloffset=+1]
 
 include::_include/storage-management-cloud-volumes-ontap.adoc[]
 include::_whatsnew/2025-10-17_storage-management-cloud-volumes-ontap.adoc[leveloffset=+1]
-
-## 13 October 2025 
-
-include::_include/keystone-staas.adoc[]
-include::_whatsnew/2025-10-13_keystone-staas.adoc[leveloffset=+1]
 
