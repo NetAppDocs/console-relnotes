@@ -41,6 +41,11 @@ Operational resiliency features were removed on August 22, 2025.
 The Remediation service was removed on April 22, 2024.
 
 // end local content
+## 14 January 2026 
+
+include::_include/data-services-data-classification.adoc[]
+include::_whatsnew/2026-01-14_data-services-data-classification.adoc[leveloffset=+1]
+
 ## 12 January 2026 
 
 include::_include/console-setup-admin.adoc[]
