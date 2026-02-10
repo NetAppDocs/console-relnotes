@@ -51,6 +51,8 @@ include::_include/data-services-data-classification.adoc[]
 include::_whatsnew/2026-02-09_data-services-data-classification.adoc[leveloffset=+1]
 include::_include/storage-management-cloud-volumes-ontap.adoc[]
 include::_whatsnew/2026-02-09_storage-management-cloud-volumes-ontap.adoc[leveloffset=+1]
+include::_include/storage-management-fsx-ontap.adoc[]
+include::_whatsnew/2026-02-09_storage-management-fsx-ontap.adoc[leveloffset=+1]
 
 ## 04 February 2026 
 
