@@ -41,6 +41,11 @@ Operational resiliency features were removed on August 22, 2025.
 The Remediation service was removed on April 22, 2024.
 
 // end local content
+## 17 February 2026 
+
+include::_include/storage-management-cloud-volumes-ontap.adoc[]
+include::_whatsnew/2026-02-17_storage-management-cloud-volumes-ontap.adoc[leveloffset=+1]
+
 ## 12 February 2026 
 
 include::_include/storage-management-cloud-volumes-ontap.adoc[]
@@ -131,9 +136,4 @@ include::_whatsnew/2025-11-27_storage-management-google-cloud-netapp-volumes.ado
 
 include::_include/keystone-staas.adoc[]
 include::_whatsnew/2025-11-24_keystone-staas.adoc[leveloffset=+1]
-
-## 17 November 2025 
-
-include::_include/storage-management-fsx-ontap.adoc[]
-include::_whatsnew/2025-11-17_storage-management-fsx-ontap.adoc[leveloffset=+1]
 
