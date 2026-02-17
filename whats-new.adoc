@@ -48,6 +48,8 @@ include::_whatsnew/2026-02-17_storage-management-cloud-volumes-ontap.adoc[levelo
 
 ## 16 February 2026 
 
+include::_include/data-services-ransomware-resilience.adoc[]
+include::_whatsnew/2026-02-16_data-services-ransomware-resilience.adoc[leveloffset=+1]
 include::_include/storage-management-fsx-ontap.adoc[]
 include::_whatsnew/2026-02-16_storage-management-fsx-ontap.adoc[leveloffset=+1]
 
