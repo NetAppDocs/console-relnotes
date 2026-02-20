@@ -61,6 +61,8 @@ include::_include/data-services-ransomware-resilience.adoc[]
 include::_whatsnew/2026-02-16_data-services-ransomware-resilience.adoc[leveloffset=+1]
 include::_include/storage-management-fsx-ontap.adoc[]
 include::_whatsnew/2026-02-16_storage-management-fsx-ontap.adoc[leveloffset=+1]
+include::_include/keystone-staas.adoc[]
+include::_whatsnew/2026-02-16_keystone-staas.adoc[leveloffset=+1]
 
 ## 12 February 2026 
 
