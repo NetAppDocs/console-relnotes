@@ -150,8 +150,3 @@ include::_whatsnew/2025-12-08_keystone-staas.adoc[leveloffset=+1]
 include::_include/data-services-disaster-recovery.adoc[]
 include::_whatsnew/2025-12-01_data-services-disaster-recovery.adoc[leveloffset=+1]
 
-## 27 November 2025 
-
-include::_include/storage-management-google-cloud-netapp-volumes.adoc[]
-include::_whatsnew/2025-11-27_storage-management-google-cloud-netapp-volumes.adoc[leveloffset=+1]
-
