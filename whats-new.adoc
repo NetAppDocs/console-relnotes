@@ -15,30 +15,28 @@ summary: Learn about the most recent changes to the features and data services t
 [.lead]
 Learn about the most recent changes to the features and data services that are part of the NetApp Console. For a complete release history, go to the link:release-notes-index.html[full set of release notes] for each individual service. 
 
-== Deprecated services
+[NOTE]
+====
+The following services have been deprecated:
 
-
-=== Edge caching
-
+Edge caching::
 The edge caching service was removed on August 7, 2024.
 
-
-=== Kubernetes
-
+Kubernetes::
 Support for discovering and managing Kubernetes clusters was removed on August 7, 2024.
 
-=== Migration reports
-
+Migration reports::
 Migration reports service was removed on August 7, 2024.
 
- 
-=== Operational resiliency
+Operational resiliency::
 
 Operational resiliency features were removed on August 22, 2025. 
 
-=== Remediation
+Remediation::
 
 The Remediation service was removed on April 22, 2024.
+
+====
 
 // end local content
 
