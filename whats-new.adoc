@@ -39,5 +39,119 @@ The Remediation service was removed on April 22, 2024.
 ====
 
 // end local content
+## 26 February 2026 
 
+include::_include/console-setup-admin.adoc[]
+include::_whatsnew/2026-02-26_console-setup-admin.adoc[leveloffset=+1]
+include::_include/storage-management-cloud-volumes-ontap.adoc[]
+include::_whatsnew/2026-02-26_storage-management-cloud-volumes-ontap.adoc[leveloffset=+1]
+
+## 23 February 2026 
+
+include::_include/data-services-backup-recovery.adoc[]
+include::_whatsnew/2026-02-23_data-services-backup-recovery.adoc[leveloffset=+1]
+
+## 19 February 2026 
+
+include::_include/storage-management-cloud-volumes-ontap.adoc[]
+include::_whatsnew/2026-02-19_storage-management-cloud-volumes-ontap.adoc[leveloffset=+1]
+
+## 17 February 2026 
+
+include::_include/console-setup-admin.adoc[]
+include::_whatsnew/2026-02-17_console-setup-admin.adoc[leveloffset=+1]
+include::_include/storage-management-cloud-volumes-ontap.adoc[]
+include::_whatsnew/2026-02-17_storage-management-cloud-volumes-ontap.adoc[leveloffset=+1]
+
+## 16 February 2026 
+
+include::_include/data-services-disaster-recovery.adoc[]
+include::_whatsnew/2026-02-16_data-services-disaster-recovery.adoc[leveloffset=+1]
+include::_include/data-services-ransomware-resilience.adoc[]
+include::_whatsnew/2026-02-16_data-services-ransomware-resilience.adoc[leveloffset=+1]
+include::_include/storage-management-fsx-ontap.adoc[]
+include::_whatsnew/2026-02-16_storage-management-fsx-ontap.adoc[leveloffset=+1]
+include::_include/keystone-staas.adoc[]
+include::_whatsnew/2026-02-16_keystone-staas.adoc[leveloffset=+1]
+
+## 12 February 2026 
+
+include::_include/storage-management-cloud-volumes-ontap.adoc[]
+include::_whatsnew/2026-02-12_storage-management-cloud-volumes-ontap.adoc[leveloffset=+1]
+
+## 09 February 2026 
+
+include::_include/console-setup-admin.adoc[]
+include::_whatsnew/2026-02-09_console-setup-admin.adoc[leveloffset=+1]
+include::_include/data-services-backup-recovery.adoc[]
+include::_whatsnew/2026-02-09_data-services-backup-recovery.adoc[leveloffset=+1]
+include::_include/data-services-data-classification.adoc[]
+include::_whatsnew/2026-02-09_data-services-data-classification.adoc[leveloffset=+1]
+include::_include/storage-management-cloud-volumes-ontap.adoc[]
+include::_whatsnew/2026-02-09_storage-management-cloud-volumes-ontap.adoc[leveloffset=+1]
+include::_include/storage-management-fsx-ontap.adoc[]
+include::_whatsnew/2026-02-09_storage-management-fsx-ontap.adoc[leveloffset=+1]
+
+## 04 February 2026 
+
+include::_include/active-iq.adoc[]
+include::_whatsnew/2026-02-04_active-iq.adoc[leveloffset=+1]
+
+## 02 February 2026 
+
+include::_include/keystone-staas.adoc[]
+include::_whatsnew/2026-02-02_keystone-staas.adoc[leveloffset=+1]
+
+## 19 January 2026 
+
+include::_include/data-services-backup-recovery.adoc[]
+include::_whatsnew/2026-01-19_data-services-backup-recovery.adoc[leveloffset=+1]
+include::_include/data-services-ransomware-resilience.adoc[]
+include::_whatsnew/2026-01-19_data-services-ransomware-resilience.adoc[leveloffset=+1]
+
+## 14 January 2026 
+
+include::_include/data-services-data-classification.adoc[]
+include::_whatsnew/2026-01-14_data-services-data-classification.adoc[leveloffset=+1]
+
+## 12 January 2026 
+
+include::_include/console-setup-admin.adoc[]
+include::_whatsnew/2026-01-12_console-setup-admin.adoc[leveloffset=+1]
+include::_include/data-services-disaster-recovery.adoc[]
+include::_whatsnew/2026-01-12_data-services-disaster-recovery.adoc[leveloffset=+1]
+include::_include/data-services-ransomware-resilience.adoc[]
+include::_whatsnew/2026-01-12_data-services-ransomware-resilience.adoc[leveloffset=+1]
+include::_include/storage-management-cloud-volumes-ontap.adoc[]
+include::_whatsnew/2026-01-12_storage-management-cloud-volumes-ontap.adoc[leveloffset=+1]
+
+## 10 December 2025 
+
+include::_include/console-setup-admin.adoc[]
+include::_whatsnew/2025-12-10_console-setup-admin.adoc[leveloffset=+1]
+include::_include/storage-management-ontap-onprem.adoc[]
+include::_whatsnew/2025-12-10_storage-management-ontap-onprem.adoc[leveloffset=+1]
+
+## 09 December 2025 
+
+include::_include/data-services-disaster-recovery.adoc[]
+include::_whatsnew/2025-12-09_data-services-disaster-recovery.adoc[leveloffset=+1]
+
+## 08 December 2025 
+
+include::_include/data-services-backup-recovery.adoc[]
+include::_whatsnew/2025-12-08_data-services-backup-recovery.adoc[leveloffset=+1]
+include::_include/data-services-data-classification.adoc[]
+include::_whatsnew/2025-12-08_data-services-data-classification.adoc[leveloffset=+1]
+include::_include/data-services-ransomware-resilience.adoc[]
+include::_whatsnew/2025-12-08_data-services-ransomware-resilience.adoc[leveloffset=+1]
+include::_include/storage-management-cloud-volumes-ontap.adoc[]
+include::_whatsnew/2025-12-08_storage-management-cloud-volumes-ontap.adoc[leveloffset=+1]
+include::_include/keystone-staas.adoc[]
+include::_whatsnew/2025-12-08_keystone-staas.adoc[leveloffset=+1]
+
+## 01 December 2025 
+
+include::_include/data-services-disaster-recovery.adoc[]
+include::_whatsnew/2025-12-01_data-services-disaster-recovery.adoc[leveloffset=+1]
 
