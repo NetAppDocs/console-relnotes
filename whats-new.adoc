@@ -41,6 +41,11 @@ Operational resiliency features were removed on August 22, 2025.
 The Remediation service was removed on April 22, 2024.
 
 // end local content
+## 26 February 2026 
+
+include::_include/storage-management-cloud-volumes-ontap.adoc[]
+include::_whatsnew/2026-02-26_storage-management-cloud-volumes-ontap.adoc[leveloffset=+1]
+
 ## 23 February 2026 
 
 include::_include/data-services-backup-recovery.adoc[]
