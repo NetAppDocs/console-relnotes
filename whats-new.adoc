@@ -39,6 +39,11 @@ The Remediation service was removed on April 22, 2024.
 ====
 
 // end local content
+## 01 March 2026 
+
+include::_include/storage-management-fsx-ontap.adoc[]
+include::_whatsnew/2026-03-01_storage-management-fsx-ontap.adoc[leveloffset=+1]
+
 ## 26 February 2026 
 
 include::_include/console-setup-admin.adoc[]
