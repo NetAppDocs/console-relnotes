@@ -39,6 +39,11 @@ The Remediation service was removed on April 22, 2024.
 ====
 
 // end local content
+## 10 March 2026 
+
+include::_include/storage-management-cloud-volumes-ontap.adoc[]
+include::_whatsnew/2026-03-10_storage-management-cloud-volumes-ontap.adoc[leveloffset=+1]
+
 ## 09 March 2026 
 
 include::_include/console-setup-admin.adoc[]
@@ -49,6 +54,8 @@ include::_include/data-services-data-classification.adoc[]
 include::_whatsnew/2026-03-09_data-services-data-classification.adoc[leveloffset=+1]
 include::_include/data-services-disaster-recovery.adoc[]
 include::_whatsnew/2026-03-09_data-services-disaster-recovery.adoc[leveloffset=+1]
+include::_include/data-services-ransomware-resilience.adoc[]
+include::_whatsnew/2026-03-09_data-services-ransomware-resilience.adoc[leveloffset=+1]
 
 ## 02 March 2026 
 
@@ -145,11 +152,4 @@ include::_include/data-services-ransomware-resilience.adoc[]
 include::_whatsnew/2026-01-12_data-services-ransomware-resilience.adoc[leveloffset=+1]
 include::_include/storage-management-cloud-volumes-ontap.adoc[]
 include::_whatsnew/2026-01-12_storage-management-cloud-volumes-ontap.adoc[leveloffset=+1]
-
-## 10 December 2025 
-
-include::_include/console-setup-admin.adoc[]
-include::_whatsnew/2025-12-10_console-setup-admin.adoc[leveloffset=+1]
-include::_include/storage-management-ontap-onprem.adoc[]
-include::_whatsnew/2025-12-10_storage-management-ontap-onprem.adoc[leveloffset=+1]
 
