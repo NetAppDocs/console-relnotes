@@ -54,6 +54,8 @@ include::_include/data-services-data-classification.adoc[]
 include::_whatsnew/2026-03-09_data-services-data-classification.adoc[leveloffset=+1]
 include::_include/data-services-disaster-recovery.adoc[]
 include::_whatsnew/2026-03-09_data-services-disaster-recovery.adoc[leveloffset=+1]
+include::_include/data-services-ransomware-resilience.adoc[]
+include::_whatsnew/2026-03-09_data-services-ransomware-resilience.adoc[leveloffset=+1]
 
 ## 02 March 2026 
 
