@@ -39,6 +39,11 @@ The Remediation service was removed on April 22, 2024.
 ====
 
 // end local content
+## 12 March 2026 
+
+include::_include/data-services-ransomware-resilience.adoc[]
+include::_whatsnew/2026-03-12_data-services-ransomware-resilience.adoc[leveloffset=+1]
+
 ## 10 March 2026 
 
 include::_include/storage-management-cloud-volumes-ontap.adoc[]
