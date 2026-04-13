@@ -51,6 +51,8 @@ include::_include/data-services-cloud-tiering.adoc[]
 include::_whatsnew/2026-04-13_data-services-cloud-tiering.adoc[leveloffset=+1]
 include::_include/data-services-disaster-recovery.adoc[]
 include::_whatsnew/2026-04-13_data-services-disaster-recovery.adoc[leveloffset=+1]
+include::_include/data-services-ransomware-resilience.adoc[]
+include::_whatsnew/2026-04-13_data-services-ransomware-resilience.adoc[leveloffset=+1]
 
 ## 31 March 2026 
 
