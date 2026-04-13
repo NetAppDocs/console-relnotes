@@ -41,6 +41,8 @@ The Remediation service was removed on April 22, 2024.
 // end local content
 ## 13 April 2026 
 
+include::_include/data-services-backup-recovery.adoc[]
+include::_whatsnew/2026-04-13_data-services-backup-recovery.adoc[leveloffset=+1]
 include::_include/data-services-disaster-recovery.adoc[]
 include::_whatsnew/2026-04-13_data-services-disaster-recovery.adoc[leveloffset=+1]
 
