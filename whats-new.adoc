@@ -39,6 +39,11 @@ The Remediation service was removed on April 22, 2024.
 ====
 
 // end local content
+## 27 April 2026 
+
+include::_include/keystone-staas.adoc[]
+include::_whatsnew/2026-04-27_keystone-staas.adoc[leveloffset=+1]
+
 ## 20 April 2026 
 
 include::_include/data-services-backup-recovery.adoc[]
