@@ -39,6 +39,11 @@ The Remediation service was removed on April 22, 2024.
 ====
 
 // end local content
+## 04 May 2026 
+
+include::_include/data-services-data-classification.adoc[]
+include::_whatsnew/2026-05-04_data-services-data-classification.adoc[leveloffset=+1]
+
 ## 27 April 2026 
 
 include::_include/keystone-staas.adoc[]
@@ -173,9 +178,4 @@ include::_whatsnew/2026-02-09_storage-management-fsx-ontap.adoc[leveloffset=+1]
 
 include::_include/active-iq.adoc[]
 include::_whatsnew/2026-02-04_active-iq.adoc[leveloffset=+1]
-
-## 02 February 2026 
-
-include::_include/keystone-staas.adoc[]
-include::_whatsnew/2026-02-02_keystone-staas.adoc[leveloffset=+1]
 
