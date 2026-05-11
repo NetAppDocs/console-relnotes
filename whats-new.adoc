@@ -48,6 +48,10 @@ include::_whatsnew/2026-05-12_data-services-disaster-recovery.adoc[leveloffset=+
 
 include::_include/console-setup-admin.adoc[]
 include::_whatsnew/2026-05-11_console-setup-admin.adoc[leveloffset=+1]
+include::_include/data-services-backup-recovery.adoc[]
+include::_whatsnew/2026-05-11_data-services-backup-recovery.adoc[leveloffset=+1]
+include::_include/data-services-ransomware-resilience.adoc[]
+include::_whatsnew/2026-05-11_data-services-ransomware-resilience.adoc[leveloffset=+1]
 
 ## 05 May 2026 
 
