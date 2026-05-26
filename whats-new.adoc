@@ -157,8 +157,3 @@ include::_whatsnew/2026-02-26_console-setup-admin.adoc[leveloffset=+1]
 include::_include/storage-management-cloud-volumes-ontap.adoc[]
 include::_whatsnew/2026-02-26_storage-management-cloud-volumes-ontap.adoc[leveloffset=+1]
 
-## 23 February 2026 
-
-include::_include/data-services-backup-recovery.adoc[]
-include::_whatsnew/2026-02-23_data-services-backup-recovery.adoc[leveloffset=+1]
-
