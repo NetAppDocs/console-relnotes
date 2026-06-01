@@ -150,13 +150,3 @@ include::_whatsnew/2026-03-09_data-services-disaster-recovery.adoc[leveloffset=+
 include::_include/data-services-ransomware-resilience.adoc[]
 include::_whatsnew/2026-03-09_data-services-ransomware-resilience.adoc[leveloffset=+1]
 
-## 02 March 2026 
-
-include::_include/keystone-staas.adoc[]
-include::_whatsnew/2026-03-02_keystone-staas.adoc[leveloffset=+1]
-
-## 01 March 2026 
-
-include::_include/storage-management-fsx-ontap.adoc[]
-include::_whatsnew/2026-03-01_storage-management-fsx-ontap.adoc[leveloffset=+1]
-
