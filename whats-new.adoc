@@ -39,6 +39,13 @@ The Remediation service was removed on April 22, 2024.
 ====
 
 // end local content
+## 03 June 2026 
+
+include::_include/console-lifecycle-planning.adoc[]
+include::_whatsnew/2026-06-03_console-lifecycle-planning.adoc[leveloffset=+1]
+include::_include/active-iq.adoc[]
+include::_whatsnew/2026-06-03_active-iq.adoc[leveloffset=+1]
+
 ## 26 May 2026 
 
 include::_include/data-services-ransomware-resilience.adoc[]
