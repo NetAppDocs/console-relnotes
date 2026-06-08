@@ -139,21 +139,3 @@ include::_whatsnew/2026-03-16_data-services-backup-recovery.adoc[leveloffset=+1]
 include::_include/data-services-ransomware-resilience.adoc[]
 include::_whatsnew/2026-03-12_data-services-ransomware-resilience.adoc[leveloffset=+1]
 
-## 10 March 2026 
-
-include::_include/storage-management-cloud-volumes-ontap.adoc[]
-include::_whatsnew/2026-03-10_storage-management-cloud-volumes-ontap.adoc[leveloffset=+1]
-
-## 09 March 2026 
-
-include::_include/console-setup-admin.adoc[]
-include::_whatsnew/2026-03-09_console-setup-admin.adoc[leveloffset=+1]
-include::_include/data-services-backup-recovery.adoc[]
-include::_whatsnew/2026-03-09_data-services-backup-recovery.adoc[leveloffset=+1]
-include::_include/data-services-data-classification.adoc[]
-include::_whatsnew/2026-03-09_data-services-data-classification.adoc[leveloffset=+1]
-include::_include/data-services-disaster-recovery.adoc[]
-include::_whatsnew/2026-03-09_data-services-disaster-recovery.adoc[leveloffset=+1]
-include::_include/data-services-ransomware-resilience.adoc[]
-include::_whatsnew/2026-03-09_data-services-ransomware-resilience.adoc[leveloffset=+1]
-
