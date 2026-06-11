@@ -39,6 +39,11 @@ The Remediation service was removed on April 22, 2024.
 ====
 
 // end local content
+## 11 June 2026 
+
+include::_include/storage-management-cloud-volumes-ontap.adoc[]
+include::_whatsnew/2026-06-11_storage-management-cloud-volumes-ontap.adoc[leveloffset=+1]
+
 ## 08 June 2026 
 
 include::_include/data-services-backup-recovery.adoc[]
@@ -146,9 +151,4 @@ include::_whatsnew/2026-03-30_keystone-staas.adoc[leveloffset=+1]
 
 include::_include/data-services-backup-recovery.adoc[]
 include::_whatsnew/2026-03-16_data-services-backup-recovery.adoc[leveloffset=+1]
-
-## 12 March 2026 
-
-include::_include/data-services-ransomware-resilience.adoc[]
-include::_whatsnew/2026-03-12_data-services-ransomware-resilience.adoc[leveloffset=+1]
 
