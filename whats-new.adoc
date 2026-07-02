@@ -45,6 +45,8 @@ include::_include/data-services-ransomware-resilience.adoc[]
 include::_whatsnew/2026-06-29_data-services-ransomware-resilience.adoc[leveloffset=+1]
 include::_include/active-iq.adoc[]
 include::_whatsnew/2026-06-29_active-iq.adoc[leveloffset=+1]
+include::_include/keystone-staas.adoc[]
+include::_whatsnew/2026-06-29_keystone-staas.adoc[leveloffset=+1]
 
 ## 15 June 2026 
 
