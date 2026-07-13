@@ -39,6 +39,11 @@ The Remediation service was removed on April 22, 2024.
 ====
 
 // end local content
+## 13 July 2026 
+
+include::_include/data-services-disaster-recovery.adoc[]
+include::_whatsnew/2026-07-13_data-services-disaster-recovery.adoc[leveloffset=+1]
+
 ## 07 July 2026 
 
 include::_include/data-services-ransomware-resilience.adoc[]
@@ -138,23 +143,4 @@ include::_whatsnew/2026-04-27_keystone-staas.adoc[leveloffset=+1]
 
 include::_include/data-services-backup-recovery.adoc[]
 include::_whatsnew/2026-04-20_data-services-backup-recovery.adoc[leveloffset=+1]
-
-## 13 April 2026 
-
-include::_include/console-setup-admin.adoc[]
-include::_whatsnew/2026-04-13_console-setup-admin.adoc[leveloffset=+1]
-include::_include/data-services-backup-recovery.adoc[]
-include::_whatsnew/2026-04-13_data-services-backup-recovery.adoc[leveloffset=+1]
-include::_include/data-services-data-classification.adoc[]
-include::_whatsnew/2026-04-13_data-services-data-classification.adoc[leveloffset=+1]
-include::_include/data-services-cloud-tiering.adoc[]
-include::_whatsnew/2026-04-13_data-services-cloud-tiering.adoc[leveloffset=+1]
-include::_include/data-services-disaster-recovery.adoc[]
-include::_whatsnew/2026-04-13_data-services-disaster-recovery.adoc[leveloffset=+1]
-include::_include/data-services-ransomware-resilience.adoc[]
-include::_whatsnew/2026-04-13_data-services-ransomware-resilience.adoc[leveloffset=+1]
-include::_include/data-services-replication.adoc[]
-include::_whatsnew/2026-04-13_data-services-replication.adoc[leveloffset=+1]
-include::_include/storage-management-cloud-volumes-ontap.adoc[]
-include::_whatsnew/2026-04-13_storage-management-cloud-volumes-ontap.adoc[leveloffset=+1]
 
