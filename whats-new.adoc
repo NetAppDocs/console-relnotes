@@ -43,6 +43,8 @@ The Remediation service was removed on April 22, 2024.
 
 include::_include/console-setup-admin.adoc[]
 include::_whatsnew/2026-07-15_console-setup-admin.adoc[leveloffset=+1]
+include::_include/storage-management-fsx-ontap.adoc[]
+include::_whatsnew/2026-07-15_storage-management-fsx-ontap.adoc[leveloffset=+1]
 
 ## 14 July 2026 
 
