@@ -41,6 +41,8 @@ The Remediation service was removed on April 22, 2024.
 // end local content
 ## 20 July 2026 
 
+include::_include/console-well-architected.adoc[]
+include::_whatsnew/2026-07-20_console-well-architected.adoc[leveloffset=+1]
 include::_include/storage-management-cloud-volumes-ontap.adoc[]
 include::_whatsnew/2026-07-20_storage-management-cloud-volumes-ontap.adoc[leveloffset=+1]
 
