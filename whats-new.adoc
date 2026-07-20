@@ -153,8 +153,3 @@ include::_whatsnew/2026-05-05_data-services-backup-recovery.adoc[leveloffset=+1]
 include::_include/keystone-staas.adoc[]
 include::_whatsnew/2026-04-27_keystone-staas.adoc[leveloffset=+1]
 
-## 20 April 2026 
-
-include::_include/data-services-backup-recovery.adoc[]
-include::_whatsnew/2026-04-20_data-services-backup-recovery.adoc[leveloffset=+1]
-
