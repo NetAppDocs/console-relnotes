@@ -47,6 +47,8 @@ include::_include/data-services-ransomware-resilience.adoc[]
 include::_whatsnew/2026-07-20_data-services-ransomware-resilience.adoc[leveloffset=+1]
 include::_include/storage-management-cloud-volumes-ontap.adoc[]
 include::_whatsnew/2026-07-20_storage-management-cloud-volumes-ontap.adoc[leveloffset=+1]
+include::_include/keystone-staas.adoc[]
+include::_whatsnew/2026-07-20_keystone-staas.adoc[leveloffset=+1]
 
 ## 15 July 2026 
 
