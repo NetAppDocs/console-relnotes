@@ -166,8 +166,3 @@ include::_whatsnew/2026-05-11_data-services-ransomware-resilience.adoc[leveloffs
 include::_include/data-services-backup-recovery.adoc[]
 include::_whatsnew/2026-05-05_data-services-backup-recovery.adoc[leveloffset=+1]
 
-## 27 April 2026 
-
-include::_include/keystone-staas.adoc[]
-include::_whatsnew/2026-04-27_keystone-staas.adoc[leveloffset=+1]
-
