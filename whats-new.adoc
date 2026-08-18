@@ -58,6 +58,8 @@ include::_whatsnew/2026-08-12_active-iq.adoc[leveloffset=+1]
 
 ## 10 August 2026 
 
+include::_include/console-well-architected.adoc[]
+include::_whatsnew/2026-08-10_console-well-architected.adoc[leveloffset=+1]
 include::_include/data-services-backup-recovery.adoc[]
 include::_whatsnew/2026-08-10_data-services-backup-recovery.adoc[leveloffset=+1]
 include::_include/data-services-data-classification.adoc[]
