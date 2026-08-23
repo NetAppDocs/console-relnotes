@@ -178,8 +178,3 @@ include::_whatsnew/2026-06-03_active-iq.adoc[leveloffset=+1]
 include::_include/data-services-ransomware-resilience.adoc[]
 include::_whatsnew/2026-05-26_data-services-ransomware-resilience.adoc[leveloffset=+1]
 
-## 25 May 2026 
-
-include::_include/keystone-staas.adoc[]
-include::_whatsnew/2026-05-25_keystone-staas.adoc[leveloffset=+1]
-
