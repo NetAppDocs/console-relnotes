@@ -178,10 +178,3 @@ include::_whatsnew/2026-06-08_data-services-ransomware-resilience.adoc[leveloffs
 include::_include/storage-management-cloud-volumes-ontap.adoc[]
 include::_whatsnew/2026-06-08_storage-management-cloud-volumes-ontap.adoc[leveloffset=+1]
 
-## 03 June 2026 
-
-include::_include/console-lifecycle-planning.adoc[]
-include::_whatsnew/2026-06-03_console-lifecycle-planning.adoc[leveloffset=+1]
-include::_include/active-iq.adoc[]
-include::_whatsnew/2026-06-03_active-iq.adoc[leveloffset=+1]
-
