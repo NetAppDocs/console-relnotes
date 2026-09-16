@@ -60,6 +60,8 @@ include::_whatsnew/2026-09-02_storage-management-cloud-volumes-ontap.adoc[levelo
 
 include::_include/console-well-architected.adoc[]
 include::_whatsnew/2026-09-01_console-well-architected.adoc[leveloffset=+1]
+include::_include/storage-management-storagegrid.adoc[]
+include::_whatsnew/2026-09-01_storage-management-storagegrid.adoc[leveloffset=+1]
 
 ## 31 August 2026 
 
