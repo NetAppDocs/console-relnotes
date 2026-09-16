@@ -45,6 +45,8 @@ include::_include/data-services-backup-recovery.adoc[]
 include::_whatsnew/2026-09-16_data-services-backup-recovery.adoc[leveloffset=+1]
 include::_include/data-services-data-classification.adoc[]
 include::_whatsnew/2026-09-16_data-services-data-classification.adoc[leveloffset=+1]
+include::_include/data-services-disaster-recovery.adoc[]
+include::_whatsnew/2026-09-16_data-services-disaster-recovery.adoc[leveloffset=+1]
 
 ## 14 September 2026 
 
@@ -60,6 +62,8 @@ include::_whatsnew/2026-09-02_storage-management-cloud-volumes-ontap.adoc[levelo
 
 include::_include/console-well-architected.adoc[]
 include::_whatsnew/2026-09-01_console-well-architected.adoc[leveloffset=+1]
+include::_include/storage-management-storagegrid.adoc[]
+include::_whatsnew/2026-09-01_storage-management-storagegrid.adoc[leveloffset=+1]
 
 ## 31 August 2026 
 
