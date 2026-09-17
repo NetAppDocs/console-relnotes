@@ -39,8 +39,15 @@ The Remediation service was removed on April 22, 2024.
 ====
 
 // end local content
+## 17 September 2026 
+
+include::_include/console-setup-admin.adoc[]
+include::_whatsnew/2026-09-17_console-setup-admin.adoc[leveloffset=+1]
+
 ## 16 September 2026 
 
+include::_include/console-setup-admin.adoc[]
+include::_whatsnew/2026-09-16_console-setup-admin.adoc[leveloffset=+1]
 include::_include/data-services-backup-recovery.adoc[]
 include::_whatsnew/2026-09-16_data-services-backup-recovery.adoc[leveloffset=+1]
 include::_include/data-services-data-classification.adoc[]
