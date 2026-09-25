@@ -39,6 +39,11 @@ The Remediation service was removed on April 22, 2024.
 ====
 
 // end local content
+## 25 September 2026 
+
+include::_include/active-iq.adoc[]
+include::_whatsnew/2026-09-25_active-iq.adoc[leveloffset=+1]
+
 ## 21 September 2026 
 
 include::_include/data-services-backup-recovery.adoc[]
