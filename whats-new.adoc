@@ -39,6 +39,11 @@ The Remediation service was removed on April 22, 2024.
 ====
 
 // end local content
+## 28 September 2026 
+
+include::_include/data-services-backup-recovery.adoc[]
+include::_whatsnew/2026-09-28_data-services-backup-recovery.adoc[leveloffset=+1]
+
 ## 25 September 2026 
 
 include::_include/active-iq.adoc[]
@@ -188,13 +193,4 @@ include::_whatsnew/2026-07-13_data-services-disaster-recovery.adoc[leveloffset=+
 
 include::_include/data-services-ransomware-resilience.adoc[]
 include::_whatsnew/2026-07-07_data-services-ransomware-resilience.adoc[leveloffset=+1]
-
-## 29 June 2026 
-
-include::_include/data-services-ransomware-resilience.adoc[]
-include::_whatsnew/2026-06-29_data-services-ransomware-resilience.adoc[leveloffset=+1]
-include::_include/active-iq.adoc[]
-include::_whatsnew/2026-06-29_active-iq.adoc[leveloffset=+1]
-include::_include/keystone-staas.adoc[]
-include::_whatsnew/2026-06-29_keystone-staas.adoc[leveloffset=+1]
 
