@@ -39,6 +39,11 @@ The Remediation service was removed on April 22, 2024.
 ====
 
 // end local content
+## 04 October 2026 
+
+include::_include/console-well-architected.adoc[]
+include::_whatsnew/2026-10-04_console-well-architected.adoc[leveloffset=+1]
+
 ## 30 September 2026 
 
 include::_include/console-well-architected.adoc[]
