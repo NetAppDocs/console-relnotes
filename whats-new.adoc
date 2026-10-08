@@ -48,6 +48,8 @@ include::_whatsnew/2026-10-04_console-well-architected.adoc[leveloffset=+1]
 
 include::_include/console-well-architected.adoc[]
 include::_whatsnew/2026-09-30_console-well-architected.adoc[leveloffset=+1]
+include::_include/data-services-workloads.adoc[]
+include::_whatsnew/2026-09-30_data-services-workloads.adoc[leveloffset=+1]
 
 ## 28 September 2026 
 
