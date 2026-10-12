@@ -1,4 +1,0 @@
-=== Enhanced multi-bucket support for all workloads
-NetApp Backup and Recovery now supports protecting the workloads within a system with up to 100 buckets across different cloud providers. ONTAP 9.19.1 or later is required to support more than 6 buckets per system.
-
-For details about NetApp Backup and Recovery, refer to https://docs.netapp.com/us-en/data-services-backup-recovery/concept-backup-to-cloud.html[Learn about NetApp Backup and Recovery].
