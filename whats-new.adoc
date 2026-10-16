@@ -58,15 +58,8 @@ include::_whatsnew/2026-10-12_data-services-disaster-recovery.adoc[leveloffset=+
 include::_include/keystone-staas.adoc[]
 include::_whatsnew/2026-10-12_keystone-staas.adoc[leveloffset=+1]
 
-## 04 October 2026 
-
-include::_include/console-well-architected.adoc[]
-include::_whatsnew/2026-10-04_console-well-architected.adoc[leveloffset=+1]
-
 ## 30 September 2026 
 
-include::_include/console-well-architected.adoc[]
-include::_whatsnew/2026-09-30_console-well-architected.adoc[leveloffset=+1]
 include::_include/data-services-workloads.adoc[]
 include::_whatsnew/2026-09-30_data-services-workloads.adoc[leveloffset=+1]
 
@@ -117,8 +110,6 @@ include::_whatsnew/2026-09-02_storage-management-cloud-volumes-ontap.adoc[levelo
 
 ## 01 September 2026 
 
-include::_include/console-well-architected.adoc[]
-include::_whatsnew/2026-09-01_console-well-architected.adoc[leveloffset=+1]
 include::_include/storage-management-storagegrid.adoc[]
 include::_whatsnew/2026-09-01_storage-management-storagegrid.adoc[leveloffset=+1]
 
@@ -141,8 +132,6 @@ include::_whatsnew/2026-08-20_active-iq.adoc[leveloffset=+1]
 
 ## 17 August 2026 
 
-include::_include/console-well-architected.adoc[]
-include::_whatsnew/2026-08-17_console-well-architected.adoc[leveloffset=+1]
 include::_include/data-services-backup-recovery.adoc[]
 include::_whatsnew/2026-08-17_data-services-backup-recovery.adoc[leveloffset=+1]
 
@@ -160,8 +149,6 @@ include::_whatsnew/2026-08-12_active-iq.adoc[leveloffset=+1]
 
 ## 10 August 2026 
 
-include::_include/console-well-architected.adoc[]
-include::_whatsnew/2026-08-10_console-well-architected.adoc[leveloffset=+1]
 include::_include/data-services-backup-recovery.adoc[]
 include::_whatsnew/2026-08-10_data-services-backup-recovery.adoc[leveloffset=+1]
 include::_include/data-services-data-classification.adoc[]
@@ -171,8 +158,6 @@ include::_whatsnew/2026-08-10_data-services-disaster-recovery.adoc[leveloffset=+
 
 ## 03 August 2026 
 
-include::_include/console-well-architected.adoc[]
-include::_whatsnew/2026-08-03_console-well-architected.adoc[leveloffset=+1]
 include::_include/data-services-ransomware-resilience.adoc[]
 include::_whatsnew/2026-08-03_data-services-ransomware-resilience.adoc[leveloffset=+1]
 include::_include/storage-management-cloud-volumes-ontap.adoc[]
@@ -190,8 +175,6 @@ include::_whatsnew/2026-07-23_storage-management-cloud-volumes-ontap.adoc[levelo
 
 ## 20 July 2026 
 
-include::_include/console-well-architected.adoc[]
-include::_whatsnew/2026-07-20_console-well-architected.adoc[leveloffset=+1]
 include::_include/data-services-ransomware-resilience.adoc[]
 include::_whatsnew/2026-07-20_data-services-ransomware-resilience.adoc[leveloffset=+1]
 include::_include/storage-management-cloud-volumes-ontap.adoc[]
