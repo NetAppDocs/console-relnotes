@@ -175,8 +175,3 @@ include::_whatsnew/2026-08-03_storage-management-cloud-volumes-ontap.adoc[levelo
 include::_include/data-services-ransomware-resilience.adoc[]
 include::_whatsnew/2026-07-27_data-services-ransomware-resilience.adoc[leveloffset=+1]
 
-## 23 July 2026 
-
-include::_include/storage-management-cloud-volumes-ontap.adoc[]
-include::_whatsnew/2026-07-23_storage-management-cloud-volumes-ontap.adoc[leveloffset=+1]
-
