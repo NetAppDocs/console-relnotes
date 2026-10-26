@@ -1,0 +1,9 @@
+=== AI Data Engine 1.3
+
+AI Data Engine 1.3 is the first generally available (GA) release of AI Data Engine (AIDE), a metadata intelligence service managed through the NetApp Console. AIDE scans your connected systems, builds a metadata catalog, and gives you the visibility and tools to optimize storage and govern data at scale. To learn more, refer to https://docs.netapp.com/us-en/ai-data-engine/get-started/learn-about.html[Learn about AI Data Engine].
+
+=== Optimize storage and investigate your data
+You can identify cold, stale, and duplicate data across your connected systems, find directories with open permissions, and investigate oversized or unused database tables. You can act on results directly or save filter criteria as policies that monitor data conditions over time. To learn more, refer to https://docs.netapp.com/us-en/ai-data-engine/release-notes/whats-new.html[What's new in AI Data Engine].
+
+=== Govern AI access to your metadata
+You can connect AI clients to AI Data Engine through the Model Context Protocol (MCP) and use Microsoft Entra ID scopes to control who can search each collection. To learn more, refer to https://docs.netapp.com/us-en/ai-data-engine/mcp/learn-about-mcp.html[Learn about MCP in AI Data Engine].
