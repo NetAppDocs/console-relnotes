@@ -5,7 +5,7 @@ keywords: release notes
 summary: View the full set of release notes for NetApp Console administration and storagement features, and NetApp data services.
 ---
 
-= Release notes index
+= Release notes index for NetApp Console
 :hardbreaks:
 :nofooter:
 :icons: font
