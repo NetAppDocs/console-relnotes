@@ -41,12 +41,12 @@ View the full set of release notes for NetApp Console features and NetApp data s
 
 == Storage as a service
 
+
 * https://docs.netapp.com/us-en/keystone-staas/whats-new.html[Keystone^]
 
 == Data services
 
-
-
+* https://docs.netapp.com/us-en/ai-data-engine/release-notes/whats-new.html[AI Data Engine^]
 * https://docs.netapp.com/us-en/data-services-backup-recovery/whats-new.html[Backup and Recovery^]
 * https://docs.netapp.com/us-en/data-services-data-classification/whats-new.html[Data Classification^]
 * https://docs.netapp.com/us-en/data-services-copy-sync/whats-new.html[Copy and sync^]
