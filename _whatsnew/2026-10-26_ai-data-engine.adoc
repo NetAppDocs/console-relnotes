@@ -1,0 +1,38 @@
+=== AI Data Engine 1.3
+
+AI Data Engine is a metadata intelligence service, managed through NetApp Console, that scans your connected systems, builds a metadata catalog, and gives you the visibility and tools to optimize storage and govern data at scale. You can deploy AI Data Engine as an https://docs.netapp.com/us-en/ai-data-engine/deploy/deployment-overview.html[AIDE single-node deployment^], or as an AIDE multi-node deployment if your environment requires Kubernetes-based high availability at large scale.
+
+AI Data Engine 1.3 is the first generally available (GA) release. 
+
+.Deploy and connect your data
+https://docs.netapp.com/us-en/ai-data-engine/deploy/deployment-overview.html[Deploy at the scale your environment requires^]:: Choose an AIDE single-node deployment for a fast start on a single VM, or an AIDE multi-node deployment on your own Kubernetes cluster for high availability and larger scale. If your environment requires a proxy to reach the internet, https://docs.netapp.com/us-en/ai-data-engine/deploy/configure-proxy.html[learn about proxies for AIDE^] and deploy with a proxy.
+
+https://docs.netapp.com/us-en/ai-data-engine/data-sources/connect-data-source.html[Bring your data into scope^]:: Connect file shares, database servers, and StorageGRID systems, and choose which data resources to scan.
+
+https://docs.netapp.com/us-en/ai-data-engine/administer/monitor-deployment-health.html[Keep scanning healthy^]:: Monitor your deployment's health to identify the issues that could interrupt scanning, and gather the details you need to resolve them.
+
+.Optimize storage and investigate your data
+https://docs.netapp.com/us-en/ai-data-engine/investigate/understand-dashboard.html[Recover storage capacity^]:: Identify cold, stale, and duplicate data across your connected systems based on your configured thresholds, and see which systems and data owners hold the highest concentrations of this data.
+
+https://docs.netapp.com/us-en/ai-data-engine/administer/configure-settings.html[Define cold and stale data for your organization^]:: Set the thresholds that determine which data is classified as cold or stale to match your retention policies.
+
+https://docs.netapp.com/us-en/ai-data-engine/investigate/understand-dashboard.html[Identify who to contact about data^]:: Identify which data owners hold the highest concentrations of cold, stale, or duplicate data from the dashboard. Then filter by owner or group in the investigation view to review results and find out who to contact.
+
+https://docs.netapp.com/us-en/ai-data-engine/investigate/investigate-data.html[Reduce cost and risk^]:: Filter across all connected systems by access time, modification date, creation date, file size, duplicate status, and other criteria to find files that meet your organization's data management goals. Act on results directly or save criteria as a policy.
+
+https://docs.netapp.com/us-en/ai-data-engine/investigate/investigate-data.html[Eliminate duplicate data^]:: Find files that have duplicate copies across your connected systems. Filter by the Duplicates attribute or by file hash to review duplicate groups, then clean up the duplicate copies.
+
+https://docs.netapp.com/us-en/ai-data-engine/investigate/investigate-directories.html[Find access risks^]:: Identify directories with open permissions so that you can prioritize them for a permissions review.
+
+https://docs.netapp.com/us-en/ai-data-engine/investigate/investigate-structured.html[Investigate structured data^]:: Find oversized or unused database tables across your connected database servers.
+
+.Act on data and monitor over time
+https://docs.netapp.com/us-en/ai-data-engine/investigate/take-actions.html[Reduce storage costs^]:: Enforce your organization's data lifecycle policies by copying and archiving files to NFS or SMB destinations, tagging items for tracking, or permanently deleting files according to your retention requirements.
+
+https://docs.netapp.com/us-en/ai-data-engine/policies/create-policy.html[Monitor data conditions continuously^]:: Save filter criteria as named policies to track recurring data conditions over time, such as cold or oversized files, and receive notifications when the impacted file count changes.
+
+.Governed AI access
+https://docs.netapp.com/us-en/ai-data-engine/mcp/learn-about-mcp.html[Give AI clients governed access to your metadata^]:: Connect Claude Code, Claude Desktop, Cursor, or OpenCode to AI Data Engine through the Model Context Protocol (MCP). Enable the collections that AI clients can search, and use Microsoft Entra ID scopes to control who can search each collection. AI clients can search metadata and tag files.
+
+.Administration
+https://docs.netapp.com/us-en/ai-data-engine/administer/manage-users-roles.html[Assign admin and viewer roles^]:: Control who can investigate data and take actions by assigning the AI Data Engine administrator or viewer role to users in your organization.
