@@ -161,8 +161,3 @@ include::_whatsnew/2026-08-25_storage-management-cloud-volumes-ontap.adoc[levelo
 include::_include/active-iq.adoc[]
 include::_whatsnew/2026-08-20_active-iq.adoc[leveloffset=+1]
 
-## 17 August 2026 
-
-include::_include/data-services-backup-recovery.adoc[]
-include::_whatsnew/2026-08-17_data-services-backup-recovery.adoc[leveloffset=+1]
-
